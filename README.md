@@ -1,4 +1,4 @@
-# Welcome to DraggableFloatingActionButton library [![Maven Central](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)
+# Welcome to DraggableFloatingActionButton library ![Maven Central](https://jitpack.io/v/AndreyTurcevich/DraggableFloatingActionButton.svg)
 
 ## What's DraggableFloatingActionButton
 
@@ -23,7 +23,7 @@ dependencies {
     implementation 'com.github.AndreyTurcevich:DraggableFloatingActionButton:x.y.z'
 }
 ```
-(Please replace `x`, `y` and `z` with the latest version numbers: [![Maven Central](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)
+(Please replace `x`, `y` and `z` with the latest version numbers: ![Maven Central](https://jitpack.io/v/AndreyTurcevich/DraggableFloatingActionButton.svg)
 
 ## License
 
