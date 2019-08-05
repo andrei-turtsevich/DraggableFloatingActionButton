@@ -1,4 +1,4 @@
-# Welcome to DraggableFloatingActionButton library [![Maven Central](https://img.shields.io/jitpack/v/github/AndreyTurcevich/ShapeView.svg)](https://img.shields.io/jitpack/v/github/AndreyTurcevich/ShapeView.svg)
+# Welcome to DraggableFloatingActionButton library [![Maven Central](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)](https://img.shields.io/jitpack/v/github/AndreyTurcevich/DraggableFloatingActionButton.svg)
 
 ## What's DraggableFloatingActionButton
 
